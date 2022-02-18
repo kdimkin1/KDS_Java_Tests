@@ -7,7 +7,7 @@
 
 See details:  
 ```bash
-
+SimpleJavaDataTypesAndOperators.java
 ```
 
 
